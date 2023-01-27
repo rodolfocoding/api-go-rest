@@ -1,0 +1,2 @@
+1 - Iniciar projeto go vinculando a um repositório github
+  go mod init github.com/rodolfocoding/api-go-rest
